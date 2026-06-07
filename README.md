@@ -1,16 +1,24 @@
-## Hi there 👋
+### <h1 align="center">Prazer, Vinícius! mas todos me chamam de Vinny. </h1>
+Atuei como suporte técnico N1 & N2. Estudando atualmente cloud aws, conceitos de rede, Linux, Python, Git & Github!
 
-<!--
-**Phroneses/Phroneses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌎Localização: São Paulo, Brasil
+- ☁️ Novo **aluno** da Escola da Nuvem!
+- 💻Focado atualmente em:
+<div display="inline">
+<img Width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+<img Width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img Width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img Width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img Width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 
-Here are some ideas to get you started:
+<div align="center">
+<h3 align="center">📧 Outras redes sociais! </h3>
+<a href="https://www.linkedin.com/in/viniciuscaetanoo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div/>
+
+ <div align="center">
+
+  ![Snake animation](https://github.com/juxxnn/juxxnn/blob/output/github-contribution-grid-snake.svg)
+
+</div>
