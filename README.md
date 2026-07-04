@@ -1,5 +1,5 @@
 ### <h1 align="center">Prazer, Vinícius! mas todos me chamam de Vinny. </h1>
-Atuei como suporte técnico N1 & N2. Estudando atualmente cloud aws, conceitos de rede, Linux, Python, Git & Github!
+Atuei como suporte técnico. Estudando atualmente cloud aws, conceitos de rede, Linux & Python!
 
 - 🌎Localização: São Paulo, Brasil
 - ☁️ Novo **aluno** da Escola da Nuvem!
